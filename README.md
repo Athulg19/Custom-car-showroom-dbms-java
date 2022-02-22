@@ -22,15 +22,18 @@ To run the Code :
 --------------------------------------------------------
 
 Run the APP.Java file in terminal and select the roles 
-As admin the User id = admin 
-             User password = admin
+as admin the
+          
+           User id = admin 
+            
+           User password = admin
 
 and so can enter the Admin portal .
 
 If needed to know more on this project contact:
 Athul Gireesh : athulg2002@gmail.com
 
-People contrinuted for making of project is :
+People contributed for making of project is :
 
 * Adithya S Nair 
 * Adithya Krishna
