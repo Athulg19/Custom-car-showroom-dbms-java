@@ -28,7 +28,7 @@ As admin the User id = admin
 and so can enter the Admin portal .
 
 If needed to know more on this project contact:
-Adithya S Nair : Adithyasnair2021@gmail.com
+Athul Gireesh : athulg2002@gmail.com
 
 People contrinuted for making of project is :
 
